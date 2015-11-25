@@ -1,0 +1,15 @@
+.Hangman-gallows {
+    stroke: brown;
+    stroke-width: 10;
+}
+
+.Hangman-rope {
+    stroke: black;
+    stroke-width: 3;
+}
+
+.Hangman-victim {
+    stroke: black;
+    stroke-width: 2;
+    fill: white;
+}
